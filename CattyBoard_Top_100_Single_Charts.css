@@ -73,13 +73,11 @@
     }
 
 .songs_list{
-    display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    margin-top: 2vh;
-    width: 100%;
-    position: relative;
-    top: -40vh;
+justify-content: space-between;
+margin-top: -32vh;
+width: 98%;
+position: relative;
     }
 .songs_name{
     display: flex;
